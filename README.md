@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Iaroslav
+- 🌱 I’m currently learning python
